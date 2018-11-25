@@ -87,6 +87,6 @@ public class TestChrome {
 //    dodao sam ovu liniju u 20:45
 //    dodao sam ovu liniju u 20:51
 
-
+//      acina prva promena, commitovanje i pusovanje(comittovanje je priprema i poruka, pusovanje je slanje)
 
 }
